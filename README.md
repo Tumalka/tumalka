@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## About Me
 const tumalka: Developer = {
   institution : "Sri Lanka Institute of Information Technology (SLIIT)",
   role        : "Software Engineer Intern | IT Undergraduate",
