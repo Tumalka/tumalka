@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Monadhie Tumalka</h1>
   <h3>Information Technology Undergraduate @ SLIIT</h3>
-  <h2>Full-Stack Developer focused on building scalable web & mobile solutions</h2>
+  <h3>Full-Stack Developer focused on building scalable web & mobile solutions</h3>
 </div>
 
 ## 👩‍💻 About Me
